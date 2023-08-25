@@ -1,11 +1,11 @@
-import myImage from '../assets/kim.png'
+import myImage from '../assets/kkim.png'
 
 
 
-export default function Home() {
+export default function AboutMe() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>About Me</h1>
       <div className="about-container">
       <img src={myImage} className="myImage"/>
       <p>
