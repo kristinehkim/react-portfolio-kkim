@@ -1,0 +1,11 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+padding: 20px;
+gap: 20px;
+width: 100%;
+}
+
+.myImage {
+    width: 30%;
+}
