@@ -1,11 +1,38 @@
 .about-container {
     display: flex;
     flex-direction: row;
-padding: 20px;
-gap: 20px;
-width: 100%;
+    padding: 20px;
+    gap: 20px;
+    width: 100%;
 }
 
 .myImage {
     width: 30%;
 }
+
+.projects-container, .applications-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    flex: 0 0 300px;
+    margin: 10px;
+    width: 30%
+}
+
+.form {
+    margin: 20px;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+  }

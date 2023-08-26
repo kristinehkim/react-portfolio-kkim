@@ -1,5 +1,4 @@
-import myImage from '../assets/kkim.png'
-
+import myImage from '../assets/kkim.png';
 
 
 export default function AboutMe() {
@@ -7,19 +6,10 @@ export default function AboutMe() {
     <div>
       <h1>About Me</h1>
       <div className="about-container">
-      <img src={myImage} className="myImage"/>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+        <img src={myImage} className="myImage" />
+        <p>
+          My name is Kristine Kim and I was a teacher for 16 years. I taught English to first graders in Mexico for 4 years then moved back to San Diego. I was at an inner city school teaching 5th grade for 12 years.  I incorporated technology into the classroom on a daily basis which led me to an interest in technology. I am now looking to get into the tech industry. Being a teacher has molded me into a dilligent worker that will transfer into any job in any industry.  I have learned a huge amount of information through UCSD coding bootcamp program, and I am excited to showcase my skills in this portfolio. Please browse this site showcasing my abilities and what I have accomplished during the course. If interested in reaching out to me, contact information is provided below. 
+        </p>
       </div>
     </div>
   );
