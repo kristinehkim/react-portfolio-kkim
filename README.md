@@ -1,5 +1,5 @@
 # Kristine Kim's React Portfolio
-> Outline a brief description of your project.
+> This is my portfolio showcasing my skills and talents during the bootcamp program.  Through this portfolio, you will be able to see the progress I have made while highlighting my strongest work.
 > Live demo [_here_](https://super-buttercream-4cf897.netlify.app/#aboutMe). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
@@ -17,35 +17,34 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+I created this to have a portfolio showcasing all the projects I made encompassing everything that I have learned during this bootcamp.  My goal is to make it into the educational tech industry since I was a teacher and have a lot of background information and knowledge in that area.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- React
+- Vite
+- Bootstrap
+- Material UI
+
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Header with my name and navigation with titles corresponding to different sections of the portfolio.
+- Portfolio section contains clickable links to the deployed application and to the GitHub repo
+- Contact section contains a form to contact me directly.
+- Resume section has a clickable link to a pdf of my resume and a list highlighting my skills.
+- Clickable LinkedIn, GitHub, and Twitter icons in the footer.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./src/components/assets/images/portfolio-screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+## Setup.
+In order to set up this app, enter `npm i` then `npm run dev`.
 
 
 ## Usage
@@ -56,7 +55,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_.
 
 
 ## Room for Improvement
@@ -72,14 +71,11 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to my instuctor, Michael Pacheco, the TAs, Nirav Venkatesan and Julius Dorfman, tutor, Anastasia Warren, and all of the learning assistants from AskBCS. 
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Kristine Kim - feel free to email me at kristinehkim@gmail.com!
 
 
 <!-- Optional -->

@@ -1,4 +1,3 @@
-// import React from 'react';
 import { LinkedIn, GitHub, Twitter } from '@mui/icons-material';
 
 function Footer() {
