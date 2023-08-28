@@ -5,7 +5,7 @@ import {  validateEmail } from '../../utils/helpers';
 
 
 export default function Contact() {
-  // Set two state variables for firstName and lastName using `useState`
+  // Set state variables for usersName email, message, and errorMessage using `useState` and give it an empty initial value
   const [usersName, setUsersName] = useState('');
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
