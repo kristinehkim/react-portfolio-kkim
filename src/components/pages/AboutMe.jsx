@@ -1,4 +1,4 @@
-import myImage from '../assets/kkim.png';
+import myImage from '../assets/images/kkim.png';
 
 
 export default function AboutMe() {

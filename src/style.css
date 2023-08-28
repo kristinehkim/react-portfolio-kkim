@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url('../src/components/assets/pineapples-background.png') ;
+    background-image: url('../src/components/assets/images/pineapples-background.png') ;
     background-color: #5fa8d3;
     color: white;
     padding: 10px 20px;

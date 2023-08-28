@@ -1,9 +1,9 @@
-import beach from '../assets/beach.jpeg';
-import dog from '../assets/dog.jpeg';
-import ocean from '../assets/ocean.jpeg';
-import surfer from '../assets/surfer.jpeg';
-import tower from '../assets/tower.jpeg';
-import flowers from '../assets/flowers.jpg';
+import beach from '../assets/images/beach.jpeg';
+import dog from '../assets/images/dog.jpeg';
+import ocean from '../assets/images/ocean.jpeg';
+import surfer from '../assets/images/surfer.jpeg';
+import tower from '../assets/images/tower.jpeg';
+import flowers from '../assets/images/flowers.jpg';
 
 
 export default function Portfolio() {

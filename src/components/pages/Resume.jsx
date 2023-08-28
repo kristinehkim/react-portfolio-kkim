@@ -1,8 +1,10 @@
+import resume from '../assets/resume.pdf';
+
 export default function Resume() {
   return (
     <div>
       <h1>Resume</h1>
-      <p>Download my <a href="https://docs.google.com/document/d/1hCUPvKg9mWm9MSnehaxbPR2XdnBSp-iQfsbemyPZl_4/edit?usp=sharing">resume</a></p>
+      <p>Download my <a href={resume}>resume</a></p>
       <div>
         <h3>Front-end Proficiencies</h3>
         <ul>
