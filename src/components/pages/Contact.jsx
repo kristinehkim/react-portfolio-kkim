@@ -32,11 +32,19 @@ export default function Contact() {
     e.preventDefault();
   
     // First we check to see if the email is not valid or if the userName is empty. If so we set an error message to be displayed on the page.
-    if (!validateEmail(email) || !usersName) {
-      setErrorMessage('Email or username is invalid');
+    if (!validateEmail(email)) {
+      setErrorMessage('Email is invalid');
       // We want to exit out of this code block if something is wrong so that the user can correct it
       return;
       // Then we check to see if the password is not valid. If so, we set an error message regarding the password.
+    }
+    if (!usersName) {
+      setErrorMessage('Name required');
+      return;
+    }
+    if (!message) {
+      setErrorMessage('Message required');
+      return;
     }
 
   
@@ -57,7 +65,7 @@ export default function Contact() {
           name="usersName"
           onChange={handleInputChange}
           type="text"
-          placeholder="User's Name"
+          placeholder="Name"
         />
         <input
           value={email}

@@ -4,6 +4,7 @@ import AboutMe from './pages/AboutMe';
 import Resume from './pages/Resume';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
+// import Footer from './Footer';
 
 export default function PortfolioContainer() {
   // currentPage is a variable that holds data, setCurrentPage is a function that changes the currentPage variable
@@ -35,6 +36,7 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       <main className="mx-3">{renderPage()}</main>
+      {/* <Footer /> */}
     </div>
   );
 }
