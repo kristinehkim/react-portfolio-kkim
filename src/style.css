@@ -16,7 +16,7 @@ body {
   .navbar h1 {
     margin: 0;
     font-size: 50px;
-    color: #006d77;
+    color: #1b4965;
   }
   
   .nav.nav-tabs {
@@ -29,7 +29,7 @@ body {
 }
 
 .nav-item a {
-    color: #006d77;
+    color: #1b4965;
 }
 
 .about-container {
@@ -71,8 +71,8 @@ body {
     width: 100%;
   }
 
-  /* .footer {
-    background-color: #333;
+  .footer {
+    background-color: #003459;
     color: white;
     padding: 20px;
     text-align: center;
@@ -87,4 +87,4 @@ body {
   
   .icon-links a:hover {
     color: lightgray;
-  } */
+  }

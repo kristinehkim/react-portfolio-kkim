@@ -3,7 +3,7 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>Download my <a href="https://docs.google.com/document/d/1hCUPvKg9mWm9MSnehaxbPR2XdnBSp-iQfsbemyPZl_4/edit?usp=sharing">resume</a></p>
-      <p>
+      <div>
         <h3>Front-end Proficiencies</h3>
         <ul>
           <li>HTML</li>
@@ -22,7 +22,7 @@ export default function Resume() {
           <li>REST</li>
           <li>GraphQL</li>
         </ul>
-      </p>
+      </div>
     </div>
   );
 }
