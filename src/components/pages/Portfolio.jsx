@@ -39,10 +39,10 @@ export default function Portfolio() {
           <p><a href="https://github.com/kristinehkim/work-day-scheduler">GitHub Repo</a></p>
         </div>
         <div className="card">
-        <header><a href="https://ancient-basin-84021-467278b42de0.herokuapp.com/">Text Editor</a></header>
-        <img src={surfer} alt="surfer with surfboard walking on the beach at sunset" />
-        <p><a href="https://github.com/kristinehkim/text-editor">GitHub Repo</a></p>
-      </div>
+          <header><a href="https://ancient-basin-84021-467278b42de0.herokuapp.com/">Text Editor</a></header>
+          <img src={surfer} alt="surfer with surfboard walking on the beach at sunset" />
+          <p><a href="https://github.com/kristinehkim/text-editor">GitHub Repo</a></p>
+        </div>
       </div>
     </div>
   );

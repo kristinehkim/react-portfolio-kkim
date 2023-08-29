@@ -1,6 +1,6 @@
 # Kristine Kim's React Portfolio
 > This is my portfolio showcasing my skills and talents during the bootcamp program.  Through this portfolio, you will be able to see the progress I have made while highlighting my strongest work.
-> Live demo [_here_](https://super-buttercream-4cf897.netlify.app/#aboutMe). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://super-buttercream-4cf897.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -30,7 +29,6 @@ I created this to have a portfolio showcasing all the projects I made encompassi
 
 
 ## Features
-List the ready features here:
 - Header with my name and navigation with titles corresponding to different sections of the portfolio.
 - Portfolio section contains clickable links to the deployed application and to the GitHub repo
 - Contact section contains a form to contact me directly.
@@ -44,14 +42,8 @@ List the ready features here:
 
 
 ## Setup.
-In order to set up this app, enter `npm i` then `npm run dev`.
+In order to set up this app, enter `npm i` then `npm run dev` in the terminal.
 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 
 ## Project Status
@@ -62,12 +54,10 @@ Project is: _in progress_.
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Improve mobile first design
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Add next project deployed app and GitHub repo to portfolio section
 
 
 ## Acknowledgements
