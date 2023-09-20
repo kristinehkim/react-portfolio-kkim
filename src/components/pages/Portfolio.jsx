@@ -22,9 +22,9 @@ export default function Portfolio() {
           <p><a href="https://github.com/Esztergb/doggy-gps">GitHub Repo</a></p>
         </div>
         <div className="card">
-          <header>Future Project</header>
+          <header><a href="https://damp-wildwood-31060-690d212e58d9.herokuapp.com">EduRATEr</a></header>
           <img src={flowers} alt="flowers" />
-          <p><a href="https://www.google.com">Future Project Repo</a></p>
+          <p><a href="https://github.com/Pinto006/rate-my-educator">GitHub Repo</a></p>
         </div>
       </div>
       <div className="applications-container">

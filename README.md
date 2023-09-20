@@ -55,9 +55,12 @@ Include areas you believe need improvement / could be improved. Also add TODOs f
 
 Room for improvement:
 - Improve mobile first design
+- Improve styling in portfolio section.
 
 To do:
 - Add next project deployed app and GitHub repo to portfolio section
+- Add animations from a React animation library.
+- Add functionality to contact section.
 
 
 ## Acknowledgements

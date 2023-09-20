@@ -23,6 +23,7 @@ export default function Resume() {
           <li>Mongo, Mongoose</li>
           <li>REST</li>
           <li>GraphQL</li>
+          <li>JWT</li>
         </ul>
       </div>
     </div>
