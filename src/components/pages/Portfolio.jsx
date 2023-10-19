@@ -12,14 +12,14 @@ export default function Portfolio() {
       <h1>Portfolio</h1>
       <div className="projects-container">
         <div className="card">
-          <header><a href="https://murmuring-sierra-21351-123e19ae1f23.herokuapp.com/login">Git A Job</a></header>
+          <header><a href="https://lit-dawn-72869-0437fa1dd280.herokuapp.com/login">Git A Job</a></header>
           <img src={beach} alt="shells on the sand with the ocean blurred in the background" />
-          <p><a href="https://github.com/rayr482/job-board">GitHub Repo</a></p>
+          <p><a href="https://github.com/kristinehkim/git-a-job">GitHub Repo</a></p>
         </div>
         <div className="card">
-          <header><a href="https://esztergb.github.io/doggy-gps/">Doggy GPS</a></header>
+          <header><a href="https://kristinehkim.github.io/doggygps/">Doggy GPS</a></header>
           <img src={dog} alt="black lab" />
-          <p><a href="https://github.com/Esztergb/doggy-gps">GitHub Repo</a></p>
+          <p><a href="https://github.com/kristinehkim/doggygps">GitHub Repo</a></p>
         </div>
         <div className="card">
           <header><a href="https://damp-wildwood-31060-690d212e58d9.herokuapp.com">EduRATEr</a></header>
